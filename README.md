@@ -1,6 +1,6 @@
 # Hi, I'm Mohammed Abdul Omer 👋
 
-AI/ML Engineer from Hyderabad, India — I build production-grade GenAI systems, RAG pipelines, and multimodal AI applications that actually ship.
+AI/ML Engineer from Hyderabad, India. I build production-grade GenAI applications — RAG pipelines, LLM-powered assistants, and Computer Vision systems — end-to-end from model design to deployed API. Currently in my final year of B.E. Computer Science (AI & ML) at Lords Institute of Engineering & Technology.
 
 ---
 
@@ -11,26 +11,22 @@ AI/ML Engineer from Hyderabad, India — I build production-grade GenAI systems,
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎭 [Emotion Echo](https://github.com/MOHD-OMER) *(In Progress)*
-Real-time multimodal AI that detects human emotions from facial expressions and voice signals, generating emotionally-aware responses using LangChain + LLaMA 3.
-`PyTorch` `OpenCV` `LangChain` `Groq` `FastAPI`
+## 🚀 Projects
 
 ### 🫁 [PulmoScanAI](https://github.com/MOHD-OMER/PulmoScanAI)
-AI-powered chest X-ray analysis system detecting Tuberculosis with Grad-CAM heatmap visualizations for explainable predictions. Deployed with a FastAPI inference backend.
-`PyTorch` `OpenCV` `FastAPI` `Grad-CAM`
+AI-powered chest X-ray analysis system that detects Tuberculosis using deep learning with Grad-CAM heatmap visualizations for explainable predictions. Deployed with a FastAPI inference backend.
+`PyTorch` `OpenCV` `FastAPI` `Grad-CAM` `Python`
 
 ### 🧑‍🏫 [Doubt Tutor](https://github.com/MOHD-OMER/doubt-tutor)
-AI doubt-solving assistant using local LLMs (Ollama) with support for PDF, image, and text uploads. Features smart responses, clean Streamlit UI, and chat export.
+AI doubt-solving assistant using local LLMs (Ollama) with support for PDF, image, and text uploads. Features contextual smart responses, clean Streamlit UI, and chat export.
 `LangChain` `Ollama` `Streamlit` `Python`
 
 ### 🔍 [TruthLens](https://github.com/MOHD-OMER/TruthLens)
-Misinformation detection system using a CNN-LSTM Hybrid Neural Network trained on 40,000+ real and fake news articles.
+Misinformation detection system using a CNN-LSTM Hybrid Neural Network trained on 40,000+ real and fake news articles to classify text as credible or misleading.
 `PyTorch` `Scikit-learn` `NLP` `Python`
 
 ### 🔥 [Building Safety Smoke Detection](https://github.com/MOHD-OMER/Building-Safety-Smoke-Detection)
-Major B.E. project — fire and smoke detection using ML/DL for building safety applications.
+Final year major project — fire and smoke detection system using ML and Deep Learning for real-time building safety monitoring.
 `Deep Learning` `Computer Vision` `Python`
 
 ---
