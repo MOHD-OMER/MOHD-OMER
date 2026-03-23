@@ -10,27 +10,6 @@ AI/ML Engineer from Hyderabad, India. I build production-grade GenAI application
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammedabdulomer99@gmail.com)
 
 ---
-
-## 🚀 Projects
-
-### 🫁 [PulmoScanAI](https://github.com/MOHD-OMER/PulmoScanAI)
-AI-powered chest X-ray analysis system that detects Tuberculosis using deep learning with Grad-CAM heatmap visualizations for explainable predictions. Deployed with a FastAPI inference backend.
-`PyTorch` `OpenCV` `FastAPI` `Grad-CAM` `Python`
-
-### 🧑‍🏫 [Doubt Tutor](https://github.com/MOHD-OMER/doubt-tutor)
-AI doubt-solving assistant using local LLMs (Ollama) with support for PDF, image, and text uploads. Features contextual smart responses, clean Streamlit UI, and chat export.
-`LangChain` `Ollama` `Streamlit` `Python`
-
-### 🔍 [TruthLens](https://github.com/MOHD-OMER/TruthLens)
-Misinformation detection system using a CNN-LSTM Hybrid Neural Network trained on 40,000+ real and fake news articles to classify text as credible or misleading.
-`PyTorch` `Scikit-learn` `NLP` `Python`
-
-### 🔥 [Building Safety Smoke Detection](https://github.com/MOHD-OMER/Building-Safety-Smoke-Detection)
-Final year major project — fire and smoke detection system using ML and Deep Learning for real-time building safety monitoring.
-`Deep Learning` `Computer Vision` `Python`
-
----
-
 ## 💻 Tech Stack
 
 **Languages**
