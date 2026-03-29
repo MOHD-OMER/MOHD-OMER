@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=200&section=header&text=Mohammed%20Abdul%20Omer&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20ML%20Engineer%20%E2%80%94%20GenAI%20%7C%20RAG%20Pipelines%20%7C%20Computer%20Vision&descAlignY=58&descSize=17&animation=fadeIn" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Mohammed+Abdul+Omer;AI+%26+ML+Engineer+%E2%80%94+GenAI+%7C+RAG+Pipelines+%7C+Computer+Vision" alt="Mohammed Abdul Omer — AI & ML Engineer" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-abdul-omer/">
@@ -130,4 +132,6 @@ I'm actively looking for **AI Engineer / ML Engineer / Computer Vision Engineer*
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e3a8a,100:0f172a&height=120&section=footer" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Open+to+AI+%2F+ML+Engineer+roles+%F0%9F%9A%80;Let%27s+build+something+great+together!" alt="Open to roles" />
+</p>
