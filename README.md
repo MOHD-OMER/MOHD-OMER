@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=60&lines=Hi+there!+%F0%9F%91%8B+I%27m+Mohammed+Abdul+Omer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=500&color=F7CC45&center=true&vCenter=true&repeat=false&width=650&height=65&lines=Mohammed+Abdul+Omer" alt="Name" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&height=45&lines=AI+%26+ML+Engineer+%F0%9F%A4%96;GenAI+%7C+RAG+Pipelines+%7C+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Building+production+AI+systems+%F0%9F%9A%80;LLM+%7C+PyTorch+%7C+LangChain+%7C+FastAPI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&duration=2200&pause=1000&color=94A3B8&center=true&vCenter=true&width=720&height=40&lines=AI+Engineer+%7C+GenAI+%7C+RAG+Pipelines+%7C+Computer+Vision;Building+Intelligent+Systems+End-to-End+%F0%9F%A7%A0;PyTorch+%C2%B7+LangChain+%C2%B7+FastAPI+%C2%B7+HuggingFace;Open+to+AI+%2F+ML+%2F+Computer+Vision+Roles+%F0%9F%9A%80" alt="Roles" />
 </p>
 
 <p align="center">
@@ -19,10 +19,6 @@
   <a href="https://github.com/MOHD-OMER">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
@@ -202,5 +198,5 @@ I'm actively looking for **AI Engineer / ML Engineer / Computer Vision Engineer*
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Open+to+AI+%2F+ML+Engineer+roles+%F0%9F%9A%80;Let%27s+build+something+great+together!" alt="Open to roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=12&duration=3500&pause=1200&color=F7CC45&center=true&vCenter=true&width=520&lines=Open+to+AI+%2F+ML+Engineer+Roles+%F0%9F%9A%80;Let%27s+Build+Something+Intelligent+Together" alt="Open to roles" />
 </p>
