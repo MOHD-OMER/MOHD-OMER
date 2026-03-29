@@ -17,11 +17,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MOHD-OMER&style=for-the-badge&color=1e3a8a&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/MOHD-OMER?style=for-the-badge&color=1e3a8a&label=FOLLOWERS" />
-</p>
-
 ---
 
 ## About Me
@@ -58,56 +53,116 @@ profile = {
 
 ## 🛠 Tech Stack
 
-**Core Languages**
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br>
+      <sub><b>PyTorch</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br>
+      <sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" /><br>
+      <sub><b>OpenCV</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-Learn" /><br>
+      <sub><b>Scikit-Learn</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br>
+      <sub><b>FastAPI</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" /><br>
+      <sub><b>Django</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br>
+      <sub><b>Flask</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>
+      <sub><b>VS Code</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br>
+      <sub><b>Vercel</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQL" /><br>
+      <sub><b>SQL</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" /><br>
+      <sub><b>Anaconda</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>
+      <sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" /><br>
+      <sub><b>Jupyter</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br>
+      <sub><b>Postman</b></sub>
+    </td>
+  </tr>
+</table>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<br>
 
-**AI / ML Frameworks**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Generative AI & LLM Tooling**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
-
-**Backend & Deployment**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
-**Tools & Environment**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=flat-square&logoColor=black&labelColor=FFD21E" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=flat-square&logoColor=white" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/⚡%20Groq-F55036?style=flat-square&logoColor=white" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/✨%20Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🔴%20Ollama-000000?style=flat-square&logoColor=white" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📊%20Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎨%20Gradio-FF7C00?style=flat-square&logoColor=white" height="28"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MOHD-OMER&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MOHD-OMER&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHD-OMER&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MOHD-OMER&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=MOHD-OMER&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
