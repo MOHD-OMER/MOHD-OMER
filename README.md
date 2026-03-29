@@ -1,23 +1,4 @@
-<p align="center">
-  <svg width="860" height="180" viewBox="0 0 860 180" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#0f0c29"/>
-        <stop offset="40%" style="stop-color:#1a0533"/>
-        <stop offset="100%" style="stop-color:#00c9a7"/>
-      </linearGradient>
-      <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#00c9a7;stop-opacity:0.5"/>
-        <stop offset="100%" style="stop-color:#7b2ff7;stop-opacity:0.3"/>
-      </linearGradient>
-    </defs>
-    <rect width="860" height="180" fill="url(#headerGrad)" rx="12"/>
-    <path d="M0,140 C200,100 400,160 860,120 L860,180 L0,180 Z" fill="url(#waveGrad)"/>
-    <path d="M0,155 C300,115 600,170 860,135 L860,180 L0,180 Z" fill="#00c9a7" opacity="0.15"/>
-    <text x="430" y="85" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="2">Mohammed Abdul Omer</text>
-    <text x="430" y="122" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#00c9a7" text-anchor="middle" letter-spacing="3">AI  &amp;  ML  Engineer</text>
-  </svg>
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00c9a7&height=200&section=header&text=Mohammed%20Abdul%20Omer&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer&descSize=18&descAlignY=58&descColor=00c9a7&animation=fadeIn)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-abdul-omer/">
@@ -193,18 +174,4 @@ End-to-end safety system combining 7 ML classifiers on 62,630 IoT sensor reading
 
 ---
 
-<p align="center">
-  <svg width="860" height="80" viewBox="0 0 860 80" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#0f0c29"/>
-        <stop offset="50%" style="stop-color:#1a0533"/>
-        <stop offset="100%" style="stop-color:#00c9a7"/>
-      </linearGradient>
-    </defs>
-    <rect width="860" height="80" fill="url(#footerGrad)" rx="12"/>
-    <path d="M0,20 C150,55 350,5 560,35 C700,55 800,20 860,30 L860,80 L0,80 Z" fill="#00c9a7" opacity="0.25"/>
-    <path d="M0,35 C200,65 450,15 680,45 C760,58 820,30 860,42 L860,80 L0,80 Z" fill="#7b2ff7" opacity="0.2"/>
-    <text x="430" y="50" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#00c9a7" text-anchor="middle" opacity="0.9">Open to AI / ML Engineer Roles 🚀 · Let's Build Something Intelligent Together 🧠</text>
-  </svg>
-</p>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:302b63,100:0f0c29&height=100&section=footer)
