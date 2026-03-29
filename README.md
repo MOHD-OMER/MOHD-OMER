@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Mohammed+Abdul+Omer;AI+%26+ML+Engineer+%E2%80%94+GenAI+%7C+RAG+Pipelines+%7C+Computer+Vision" alt="Mohammed Abdul Omer — AI & ML Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=60&lines=Hi+there!+%F0%9F%91%8B+I%27m+Mohammed+Abdul+Omer" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&height=45&lines=AI+%26+ML+Engineer+%F0%9F%A4%96;GenAI+%7C+RAG+Pipelines+%7C+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Building+production+AI+systems+%F0%9F%9A%80;LLM+%7C+PyTorch+%7C+LangChain+%7C+FastAPI" />
 </p>
 
 <p align="center">
@@ -15,6 +19,10 @@
   <a href="https://github.com/MOHD-OMER">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
@@ -183,6 +191,12 @@ I'm actively looking for **AI Engineer / ML Engineer / Computer Vision Engineer*
   <a href="mailto:mohammedabdulomer99@gmail.com">
     <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MOHD-OMER/MOHD-OMER/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
