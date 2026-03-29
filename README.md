@@ -1,34 +1,33 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=3000&pause=500&color=F7CC45&center=true&vCenter=true&repeat=false&width=420&height=42&lines=Mohammed+Abdul+Omer" alt="Name" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=11&duration=2200&pause=1000&color=94A3B8&center=true&vCenter=true&width=560&height=32&lines=AI+Engineer+%7C+GenAI+%7C+RAG+Pipelines+%7C+Computer+Vision;Building+Intelligent+Systems+End-to-End+%F0%9F%A7%A0;PyTorch+%C2%B7+LangChain+%C2%B7+FastAPI+%C2%B7+HuggingFace;Open+to+AI+%2F+ML+%2F+Computer+Vision+Roles+%F0%9F%9A%80" alt="Roles" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:7b2d8b&height=200&section=header&text=Mohammed%20Abdul%20Omer&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer&descAlignY=58&descColor=c084fc&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-abdul-omer/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
+  &nbsp;
   <a href="https://mohdomer.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:mohammedabdulomer99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/MOHD-OMER">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ⚡ About Me
+## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="140" alt="coding" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=800&color=00FF41&background=0D0D0D00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%24+whoami+--verbose;%3E+AI+%26+ML+Engineer+%7C+Building+Intelligent+Systems;%3E+RAG+Pipelines+%7C+LLMs+%7C+Computer+Vision+%7C+GenAI" alt="terminal typing" />
 </p>
 
-<p align="center">
-  <sub>🎓 Final Year B.E. — CS (AI & ML) · Lords Institute, Hyderabad &nbsp;|&nbsp; 📍 Hyderabad, India &nbsp;|&nbsp; 💼 Open to full-time AI/ML roles</sub>
-</p>
 AI Systems Developer experienced in building scalable, modular systems and end-to-end AI pipelines. Skilled in applying LLMs, NLP, RAG, and Generative AI to production-focused projects. Developed AI systems using vector search, REST/WebSocket/GraphQL APIs, and containerized cloud deployment with an emphasis on reliable architecture and efficient workflows.
 
 ```python
@@ -50,17 +49,74 @@ me = MohammedAbdulOmer()
 me.say_hi()
 ```
 
+**What I Do:**
+- 🔍 **Advanced RAG Systems** — hybrid retrieval, vector search, LangChain pipelines
+- 🤖 **LLM Engineering** — prompt orchestration, Groq/Gemini API, multi-modal workflows
+- 👁️ **Computer Vision** — object detection (YOLO), medical imaging, Grad-CAM explainability
+- ⚡ **API Development** — REST using FastAPI/Flask/Django with production-grade design
+- 🚀 **ML Pipelines** — model training, evaluation, HuggingFace deployment, Streamlit/Gradio apps
+
+**How I Work:**
+- 🏗️ Build end-to-end AI systems from research to deployment
+- 🧩 Design modular, scalable architectures with clean APIs
+- 📡 Communicate complex AI concepts through demos and live apps
+- 🔬 Bridge the gap between experimentation and production-ready solutions
+
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack | Demo |
-|---------|-------------|-------|------|
-| 🫁 **[PulmoScanAI](https://github.com/MOHD-OMER/PulmoScanAI)** | Tuberculosis detection from chest X-rays with Grad-CAM explainability. FastAPI backend on HuggingFace Spaces. | `PyTorch` `OpenCV` `FastAPI` | [Live →](https://pulmoscanai-app.hf.space) |
-| 🧑‍🏫 **[Doubt Tutor](https://github.com/MOHD-OMER/doubt-tutor)** | Local LLM study assistant with multi-modal input, contextual memory, and chat export. | `LangChain` `Groq` `Qwen-VL` | [Live →](https://doubt-tutor-app.streamlit.app/) |
-| 🎓 **[PTEra](https://github.com/MOHD-OMER/PTEra)** | AI-powered PTE mock exam with automated question generation and real-time scoring. | `Gradio` `Groq API` `Gemini` | [Live →](https://pteclub-Mock-app.hf.space/) |
-| 🔍 **[TruthLens](https://github.com/MOHD-OMER/TruthLens)** | CNN-LSTM fake news detector — 40K+ articles, 94.2% accuracy, Gemini AI dual-verification. | `PyTorch` `Flask` `Gemini AI` | [Live →](https://truthlens-uqo4.onrender.com) |
-| 🔥 **[Building Safety Smoke Detection](https://github.com/MOHD-OMER/Building-Safety-Smoke-Detection)** | 7 ML classifiers on 62,630 IoT readings (AUC-ROC > 0.999) + MobileNetV2 (96.98%) + YOLOv8. Django app. | `Django` `TensorFlow` `YOLOv8` | [Live →](https://building-safety-smoke-detection-production.up.railway.app) |
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🫁 PulmoScanAI
+**Tuberculosis Detection from Chest X-rays**
+
+AI-powered medical imaging system that detects tuberculosis from chest X-rays with visual explainability using Grad-CAM heatmaps. Features a production-ready FastAPI backend deployed on HuggingFace Spaces.
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+🔗 [GitHub](https://github.com/MOHD-OMER/PulmoScanAI) &nbsp;|&nbsp; 🌐 [Live Demo](https://pulmoscanai-app.hf.space)
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 🔍 TruthLens
+**AI-Powered Fake News Detector**
+
+CNN-LSTM hybrid model trained on 40,000+ articles achieving **94.2% accuracy**. Integrates Gemini AI for dual-layer verification, making it highly robust against sophisticated misinformation.
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
+
+🔗 [GitHub](https://github.com/MOHD-OMER/TruthLens) &nbsp;|&nbsp; 🌐 [Live Demo](https://truthlens-uqo4.onrender.com)
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 🔥 Building Safety Smoke Detection
+**IoT + Computer Vision Safety System**
+
+End-to-end safety system combining 7 ML classifiers on 62,630 IoT sensor readings (**AUC-ROC > 0.999**), MobileNetV2 image classifier (**96.98% accuracy**), and YOLOv8 real-time smoke detection — deployed as a full Django web app.
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+
+🔗 [GitHub](https://github.com/MOHD-OMER/Building-Safety-Smoke-Detection) &nbsp;|&nbsp; 🌐 [Live Demo](https://building-safety-smoke-detection-production.up.railway.app)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -96,32 +152,18 @@ me.say_hi()
 
 ---
 
+## 🧭 Currently Exploring
+
+- 🤖 **Agentic AI** — multi-agent orchestration, autonomous task execution, tool-use frameworks
+- 🔗 **LLM Chaining & Planning** — ReAct, LangGraph, self-correcting agent loops
+- 🧠 **Advanced RAG** — hybrid retrieval, re-ranking, agentic retrieval pipelines
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MOHD-OMER&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <sub>Looking for <strong>AI / ML / Computer Vision Engineer</strong> roles — full-time or internship. Let's talk!</sub>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-abdul-omer/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" />
-  </a>
-  &nbsp;
-  <a href="https://mohdomer.vercel.app/">
-    <img src="https://img.shields.io/badge/View%20Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:mohammedabdulomer99@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -135,5 +177,5 @@ me.say_hi()
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=11&duration=3500&pause=1200&color=F7CC45&center=true&vCenter=true&width=460&lines=Open+to+AI+%2F+ML+Engineer+Roles+%F0%9F%9A%80;Let%27s+Build+Something+Intelligent+Together" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2d8b,50:16213e,100:1a1a2e&height=100&section=footer&fontSize=14&fontColor=c084fc" width="100%" />
 </p>
