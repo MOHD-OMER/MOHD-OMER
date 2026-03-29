@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=500&color=F7CC45&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Mohammed+Abdul+Omer" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=3000&pause=500&color=F7CC45&center=true&vCenter=true&repeat=false&width=420&height=42&lines=Mohammed+Abdul+Omer" alt="Name" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 ## ⚡ About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="coding" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="140" alt="coding" />
 </p>
 
 <p align="center">
@@ -69,15 +69,15 @@ me.say_hi()
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,fastapi&perline=6" height="42" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,fastapi&perline=6" height="36" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,flask,docker,git,github,vscode&perline=6" height="42" />
+  <img src="https://skillicons.dev/icons?i=django,flask,docker,git,github,vscode&perline=6" height="36" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,sqlite,anaconda,linux,jupyter,postman&perline=6" height="42" />
+  <img src="https://skillicons.dev/icons?i=vercel,sqlite,anaconda,linux,jupyter,postman&perline=6" height="36" />
 </p>
 
 <p align="center">
@@ -101,7 +101,7 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MOHD-OMER&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="95%" />
+  <img src="https://streak-stats.demolab.com?user=MOHD-OMER&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%" />
 </p>
 
 ---
