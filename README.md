@@ -29,6 +29,7 @@
 <p align="center">
   <sub>🎓 Final Year B.E. — CS (AI & ML) · Lords Institute, Hyderabad &nbsp;|&nbsp; 📍 Hyderabad, India &nbsp;|&nbsp; 💼 Open to full-time AI/ML roles</sub>
 </p>
+AI Systems Developer experienced in building scalable, modular systems and end-to-end AI pipelines. Skilled in applying LLMs, NLP, RAG, and Generative AI to production-focused projects. Developed AI systems using vector search, REST/WebSocket/GraphQL APIs, and containerized cloud deployment with an emphasis on reliable architecture and efficient workflows.
 
 ```python
 # mohammed_omer.py  |  AI & ML Engineer  |  Hyderabad 🇮🇳
