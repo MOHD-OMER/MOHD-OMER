@@ -1,4 +1,12 @@
-![header](https://raw.githubusercontent.com/MOHD-OMER/MOHD-OMER/main/header.png)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Mohammed+Abdul+Omer" alt="Name" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=16&duration=1&pause=99999&color=00C9A7&center=true&vCenter=true&repeat=false&width=400&height=32&lines=AI+%26+ML+Engineer" alt="Title" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2500&pause=1500&color=A855F7&center=true&vCenter=true&width=700&height=24&lines=GenAI+%7C+RAG+Pipelines+%7C+LLM+Engineering+%7C+Computer+Vision+%7C+Production+ML" alt="Skills" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-abdul-omer/">
@@ -174,4 +182,6 @@ End-to-end safety system combining 7 ML classifiers on 62,630 IoT sensor reading
 
 ---
 
-![footer](https://raw.githubusercontent.com/MOHD-OMER/MOHD-OMER/main/footer.png)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1200&color=00C9A7&center=true&vCenter=true&width=600&lines=Open+to+AI+%2F+ML+Engineer+Roles+%F0%9F%9A%80;Let%27s+Build+Something+Intelligent+Together+%F0%9F%A7%A0" alt="footer" />
+</p>
