@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00c9a7&height=200&section=header&text=Mohammed%20Abdul%20Omer&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer&descSize=18&descAlignY=58&descColor=00c9a7&animation=fadeIn)
+![header](https://raw.githubusercontent.com/MOHD-OMER/MOHD-OMER/main/header.png)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-abdul-omer/">
@@ -174,4 +174,4 @@ End-to-end safety system combining 7 ML classifiers on 62,630 IoT sensor reading
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:302b63,100:0f0c29&height=100&section=footer)
+![footer](https://raw.githubusercontent.com/MOHD-OMER/MOHD-OMER/main/footer.png)
