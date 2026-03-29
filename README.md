@@ -1,5 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:7b2d8b&height=200&section=header&text=Mohammed%20Abdul%20Omer&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer&descAlignY=58&descColor=c084fc&animation=fadeIn" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&height=80&lines=Mohammed+Abdul+Omer" alt="Name" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=16&duration=1&pause=99999&color=C084FC&center=true&vCenter=true&repeat=false&width=500&height=36&lines=AI+%26+ML+Engineer" alt="Title" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2500&pause=1500&color=A855F7&center=true&vCenter=true&width=700&height=28&lines=GenAI+%7C+RAG+Pipelines+%7C+LLM+Engineering+%7C+Computer+Vision+%7C+Production+ML" alt="Skills" />
 </p>
 
 <p align="center">
@@ -25,7 +33,7 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=800&color=00FF41&background=0D0D0D00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%24+whoami+--verbose;%3E+AI+%26+ML+Engineer+%7C+Building+Intelligent+Systems;%3E+RAG+Pipelines+%7C+LLMs+%7C+Computer+Vision+%7C+GenAI" alt="terminal typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=620&height=28&lines=%24+whoami+--verbose;%24+cat+skills.txt+%7C+grep+%22AI%22;%24+./deploy+--env+production+--model+llm;%24+python+build_intelligent_systems.py" alt="terminal animation" />
 </p>
 
 AI Systems Developer experienced in building scalable, modular systems and end-to-end AI pipelines. Skilled in applying LLMs, NLP, RAG, and Generative AI to production-focused projects. Developed AI systems using vector search, REST/WebSocket/GraphQL APIs, and containerized cloud deployment with an emphasis on reliable architecture and efficient workflows.
@@ -177,5 +185,5 @@ End-to-end safety system combining 7 ML classifiers on 62,630 IoT sensor reading
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2d8b,50:16213e,100:1a1a2e&height=100&section=footer&fontSize=14&fontColor=c084fc" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=500&lines=Open+to+AI+%2F+ML+Engineer+Roles+%F0%9F%9A%80;Let%27s+Build+Something+Intelligent+Together+%F0%9F%A7%A0" alt="footer" />
 </p>
