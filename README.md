@@ -23,15 +23,11 @@
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=999999&color=F7CC45&vCenter=true&repeat=false&width=160&height=32&lines=About+Me" alt="About Me" />
+## ⚡ About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1800&pause=600&color=94A3B8&vCenter=true&multiline=false&repeat=true&width=520&height=28&lines=+Building+production-grade+AI+systems...;+From+idea+%E2%86%92+model+%E2%86%92+API+%E2%86%92+deployed+product;+Fine-tuned+vision+models+%7C+RAG+pipelines;+Final+year+B.E.+%E2%80%94+Computer+Science+(AI+%26+ML)" />
-</p>
-
-<br><br><br>
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```python
 # ============================================================
@@ -41,23 +37,38 @@
 class MohammedAbdulOmer:
 
     def __init__(self):
-        self.name       = "Mohammed Abdul Omer"
-        self.location   = "Hyderabad, India 🇮🇳"
-        self.education  = "B.E. CS (AI & ML) — Lords Institute"
-        self.focus      = ["Generative AI", "RAG Pipelines",
-                           "Computer Vision", "LLM Engineering"]
-        self.stack      = ["Python", "PyTorch", "LangChain",
-                           "FastAPI", "OpenCV", "HuggingFace"]
-        self.currently  = "Building production AI systems"
-        self.open_to    = ["AI Engineer", "ML Engineer",
-                           "Computer Vision Engineer"]
+        self.name      = "Mohammed Abdul Omer"
+        self.location  = "Hyderabad, India 🇮🇳"
+        self.education = "B.E. CS (AI & ML) — Lords Institute"
+        self.focus     = ["Generative AI", "RAG Pipelines",
+                          "Computer Vision", "LLM Engineering"]
+        self.stack     = ["Python", "PyTorch", "LangChain",
+                          "FastAPI", "OpenCV", "HuggingFace"]
+        self.status    = "Open to AI / ML / CV Engineer roles 🚀"
 
     def say_hi(self):
-        print("Thanks for visiting! Let's build something intelligent. 🚀")
+        print("Let's build something intelligent together!")
 
 me = MohammedAbdulOmer()
 me.say_hi()
 ```
+
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding" />
+
+<br><br>
+
+🎓 **Final Year B.E. — AIML**<br>
+📍 Hyderabad, India<br>
+🔭 Building production AI systems<br>
+💼 Open to full-time AI/ML roles<br>
+🧠 GenAI · RAG · Computer Vision
+
+</td>
+</tr>
+</table>
 
 ---
 
