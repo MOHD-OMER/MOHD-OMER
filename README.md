@@ -1,13 +1,22 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&height=80&lines=Mohammed+Abdul+Omer" alt="Name" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=16&duration=1&pause=99999&color=C084FC&center=true&vCenter=true&repeat=false&width=500&height=36&lines=AI+%26+ML+Engineer" alt="Title" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2500&pause=1500&color=A855F7&center=true&vCenter=true&width=700&height=28&lines=GenAI+%7C+RAG+Pipelines+%7C+LLM+Engineering+%7C+Computer+Vision+%7C+Production+ML" alt="Skills" />
+  <svg width="860" height="180" viewBox="0 0 860 180" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#0f0c29"/>
+        <stop offset="40%" style="stop-color:#1a0533"/>
+        <stop offset="100%" style="stop-color:#00c9a7"/>
+      </linearGradient>
+      <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#00c9a7;stop-opacity:0.5"/>
+        <stop offset="100%" style="stop-color:#7b2ff7;stop-opacity:0.3"/>
+      </linearGradient>
+    </defs>
+    <rect width="860" height="180" fill="url(#headerGrad)" rx="12"/>
+    <path d="M0,140 C200,100 400,160 860,120 L860,180 L0,180 Z" fill="url(#waveGrad)"/>
+    <path d="M0,155 C300,115 600,170 860,135 L860,180 L0,180 Z" fill="#00c9a7" opacity="0.15"/>
+    <text x="430" y="85" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="2">Mohammed Abdul Omer</text>
+    <text x="430" y="122" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#00c9a7" text-anchor="middle" letter-spacing="3">AI  &amp;  ML  Engineer</text>
+  </svg>
 </p>
 
 <p align="center">
@@ -185,5 +194,17 @@ End-to-end safety system combining 7 ML classifiers on 62,630 IoT sensor reading
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=500&lines=Open+to+AI+%2F+ML+Engineer+Roles+%F0%9F%9A%80;Let%27s+Build+Something+Intelligent+Together+%F0%9F%A7%A0" alt="footer" />
+  <svg width="860" height="80" viewBox="0 0 860 80" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#0f0c29"/>
+        <stop offset="50%" style="stop-color:#1a0533"/>
+        <stop offset="100%" style="stop-color:#00c9a7"/>
+      </linearGradient>
+    </defs>
+    <rect width="860" height="80" fill="url(#footerGrad)" rx="12"/>
+    <path d="M0,20 C150,55 350,5 560,35 C700,55 800,20 860,30 L860,80 L0,80 Z" fill="#00c9a7" opacity="0.25"/>
+    <path d="M0,35 C200,65 450,15 680,45 C760,58 820,30 860,42 L860,80 L0,80 Z" fill="#7b2ff7" opacity="0.2"/>
+    <text x="430" y="50" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#00c9a7" text-anchor="middle" opacity="0.9">Open to AI / ML Engineer Roles 🚀 · Let's Build Something Intelligent Together 🧠</text>
+  </svg>
 </p>
