@@ -210,7 +210,7 @@ I'm actively looking for **AI Engineer / ML Engineer / Computer Vision Engineer*
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MOHD-OMER/MOHD-OMER/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
