@@ -30,10 +30,6 @@
 
 ## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=620&height=28&lines=%24+whoami+--verbose;%24+cat+skills.txt+%7C+grep+%22AI%22;%24+./deploy+--env+production+--model+llm;%24+python+build_intelligent_systems.py" alt="terminal animation" />
-</p>
-
 AI Systems Developer experienced in building scalable, modular systems and end-to-end AI pipelines. Skilled in applying LLMs, NLP, RAG, and Generative AI to production-focused projects. Developed AI systems using vector search, REST/WebSocket/GraphQL APIs, and containerized cloud deployment with an emphasis on reliable architecture and efficient workflows.
 
 ```python
