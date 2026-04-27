@@ -40,8 +40,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer&animation=fadeIn" width="100%"/>
-
 </div>
 
 ---
@@ -162,5 +160,5 @@ me.say_hi()
 <a href="https://mohdomer.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-View%20Projects-%23000000?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer&animation=fadeIn" width="100%"/>
 </div>
