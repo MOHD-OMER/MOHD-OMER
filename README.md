@@ -1,30 +1,48 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Mohammed+Abdul+Omer" alt="Name" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=16&duration=1&pause=99999&color=00C9A7&center=true&vCenter=true&repeat=false&width=400&height=32&lines=AI+%26+ML+Engineer" alt="Title" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2500&pause=1500&color=A855F7&center=true&vCenter=true&width=700&height=24&lines=GenAI+%7C+RAG+Pipelines+%7C+LLM+Engineering+%7C+Computer+Vision+%7C+ML" alt="Skills" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-abdul-omer/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  &nbsp;
-  <a href="https://mohdomer.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:mohammedabdulomer99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/MOHD-OMER">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=750&height=75&lines=Mohammed+Abdul+Omer" alt="Name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=17&duration=1&pause=99999&color=00C9A7&center=true&vCenter=true&repeat=false&width=450&height=36&lines=AI+%26+ML+Engineer" alt="Title" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=1500&color=A855F7&center=true&vCenter=true&width=750&height=26&lines=GenAI+%7C+RAG+Pipelines+%7C+LLM+Engineering+%7C+Computer+Vision+%7C+MLOps" alt="Specializations" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/mohammad-abdul-omer/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://mohdomer.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:mohammedabdulomer99@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/MOHD-OMER">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=MOHD-OMER&style=flat-square&color=7c3aed&label=Profile+Views)
+
+<br/>
+
+> *Building intelligent systems at the intersection of LLMs, RAG, and real-world deployment.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
 
 ---
 
