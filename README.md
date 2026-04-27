@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=750&height=75&lines=Mohammed+Abdul+Omer" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=17&duration=1&pause=99999&color=00C9A7&center=true&vCenter=true&repeat=false&width=450&height=36&lines=AI+%26+ML+Engineer" alt="Title" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=17&duration=1&pause=99999&color=00C9A7&center=true&vCenter=true&repeat=false&width=500&height=36&lines=AI+%26+ML+Engineer" alt="Title" />
 
 <br/>
 
@@ -48,19 +48,20 @@
 
 ## 👨‍💻 About Me
 
-AI Systems Developer experienced in building scalable, modular systems and end-to-end AI pipelines. Skilled in applying LLMs, NLP, RAG, and Generative AI to production-focused projects. Developed AI systems using vector search, REST/WebSocket/GraphQL APIs, and containerized cloud deployment with an emphasis on reliable architecture and efficient workflows.
+AI & ML Engineer focused on building production-grade systems — from multi-agent LLM pipelines to computer vision applications. I work across the full stack of ML: data, modelling, APIs, and cloud deployment. Currently completing my B.E. in CS (AI & ML) and actively seeking roles where I can ship intelligent systems that solve real problems.
 
 ```python
-# mohammed_omer.py  |  AI & ML Engineer  |  Hyderabad 🇮🇳
+# mohammed_omer.py
 
 class MohammedAbdulOmer:
     def __init__(self):
-        self.name      = "Mohammed Abdul Omer"
-        self.location  = "Hyderabad, India 🇮🇳"
-        self.education = "B.E. CS (AI & ML) — Lords Institute"
-        self.focus     = ["Generative AI", "RAG Pipelines", "Computer Vision", "LLM Engineering"]
-        self.stack     = ["Python", "PyTorch", "LangChain", "FastAPI", "OpenCV", "HuggingFace"]
-        self.status    = "Open to AI / ML / CV Engineer roles 🚀"
+        self.name       = "Mohammed Abdul Omer"
+        self.location   = "Hyderabad, India 🇮🇳"
+        self.education  = "B.E. Computer Science (AI & ML) — Lords Institute of Engineering"
+        self.focus      = ["LLM Engineering", "RAG Pipelines", "Agentic AI", "Computer Vision"]
+        self.stack      = ["Python", "PyTorch", "LangChain", "LangGraph", "FastAPI", "HuggingFace"]
+        self.currently  = ["QLoRA Fine-tuning", "Multi-Agent Systems", "MLOps Pipelines"]
+        self.status     = "Open to AI / ML Engineer roles 🚀"
 
     def say_hi(self):
         print("Let's build something intelligent together!")
@@ -69,45 +70,48 @@ me = MohammedAbdulOmer()
 me.say_hi()
 ```
 
-**What I Do:**
-- 🔍 **Advanced RAG Systems** — hybrid retrieval, vector search, LangChain pipelines
-- 🤖 **LLM Engineering** — prompt orchestration, Groq/Gemini API, multi-modal workflows
-- 👁️ **Computer Vision** — object detection (YOLO), medical imaging, Grad-CAM explainability
-- ⚡ **API Development** — REST using FastAPI/Flask/Django with production-grade design
-- 🚀 **ML Pipelines** — model training, evaluation, HuggingFace deployment, Streamlit/Gradio apps
+<br/>
 
-**How I Work:**
-- 🏗️ Build end-to-end AI systems from research to deployment
-- 🧩 Design modular, scalable architectures with clean APIs
-- 📡 Communicate complex AI concepts through demos and live apps
-- 🔬 Bridge the gap between experimentation and production-ready solutions
+| Area | What I Build |
+|------|-------------|
+| 🔍 **Advanced RAG** | Hybrid retrieval, vector search, agentic pipelines, multi-document QA |
+| 🤖 **LLM Engineering** | Prompt orchestration, fine-tuning (QLoRA/PEFT), Groq / Gemini APIs |
+| 👁️ **Computer Vision** | Object detection (YOLO), medical imaging, Grad-CAM explainability |
+| ⚙️ **MLOps** | MLflow, Evidently AI, W&B, model monitoring, reproducible pipelines |
+| ⚡ **API & Deployment** | FastAPI, Django, Docker, Railway, Render, HuggingFace Spaces |
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,fastapi&perline=6" height="36" />
 </p>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,flask,docker,git,github,vscode&perline=6" height="36" />
+  <img src="https://skillicons.dev/icons?i=django,flask,docker,git,github,linux&perline=6" height="36" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,sqlite,anaconda,vscode,jupyter,postman&perline=6" height="36" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,sqlite,anaconda,linux,jupyter,postman&perline=6" height="36" />
-</p>
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="22"/>
   &nbsp;
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="22"/>
   &nbsp;
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="22"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" height="22"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white" height="22"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white" height="22"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" height="22"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" height="22"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="22"/>
   &nbsp;
@@ -116,11 +120,15 @@ me.say_hi()
 
 ---
 
-## 🧭 Currently Exploring
+## 🧭 Currently Building
 
-- 🤖 **Agentic AI** — multi-agent orchestration, autonomous task execution, tool-use frameworks
-- 🔗 **LLM Chaining & Planning** — ReAct, LangGraph, self-correcting agent loops
-- 🧠 **Advanced RAG** — hybrid retrieval, re-ranking, agentic retrieval pipelines
+> Focused on closing the gap between LLM research and production-ready systems.
+
+- 🗂️ **Multi-Document RAG Chatbot** — agentic retrieval, hybrid search, LangGraph orchestration
+- 🔧 **MLOps Pipeline** — MLflow experiment tracking, Evidently AI data drift monitoring, W&B
+- 🧬 **LLM Fine-tuning** — domain-specific QLoRA/PEFT fine-tuning with evaluation benchmarks
+- 🤝 **Multi-Agent Research System** — CrewAI + Tavily + autonomous task planning
+- 📊 **NLP Evaluation Dashboard** — benchmark comparisons, metrics visualisation, Gradio UI
 
 ---
 
@@ -140,6 +148,19 @@ me.say_hi()
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1200&color=00C9A7&center=true&vCenter=true&width=600&lines=Open+to+AI+%2F+ML+Engineer+Roles+%F0%9F%9A%80;Let%27s+Build+Something+Intelligent+Together+%F0%9F%A7%A0" alt="footer" />
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1200&color=00C9A7&center=true&vCenter=true&width=650&lines=Open+to+AI+%2F+ML+Engineer+Roles+%F0%9F%9A%80;Let%27s+Build+Something+Intelligent+Together+%F0%9F%A7%A0" alt="footer" />
+
+<br/><br/>
+
+*If you find my work interesting, let's connect →* &nbsp;
+<a href="https://www.linkedin.com/in/mohammad-abdul-omer/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://mohdomer.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-%23000000?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
