@@ -142,7 +142,7 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MOHD-OMER&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=MOHD-OMER&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%" />
 </p>
 
 ---
