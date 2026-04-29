@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&animation=fadeIn&fontColor=ffffff&fontSize=42&fontAlignY=40&text=Mohammed%20Abdul%20Omer&desc=AI%20and%20ML%20Engineer&descSize=20&descAlignY=62&descColor=00C9A7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0074D9,100:2ECC40&height=230&section=header&animation=scaleIn&fontColor=EAF6FF&fontSize=42&fontAlignY=40&text=MOHAMMED%20ABDUL%20OMER&desc=AI%20%7C%20ML%20ENGINEER&descSize=20&descAlignY=62&descColor=7FDBFF" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=1500&color=A855F7&center=true&vCenter=true&width=750&height=26&lines=GenAI+%7C+RAG+Pipelines+%7C+LLM+Engineering+%7C+Agentic+AI+%7C+Computer+Vision+%7C+MLOps" alt="Specializations" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=1500&color=00C9A7&center=true&vCenter=true&width=750&height=26&lines=GenAI+%7C+RAG+Pipelines+%7C+LLM+Engineering+%7C+Agentic+AI+%7C+Computer+Vision+%7C+MLOps" alt="Specializations" />
 
 <br/><br/>
 
@@ -26,7 +26,7 @@
 
 <br/><br/>
 
-![](https://komarev.com/ghpvc/?username=MOHD-OMER&style=flat-square&color=7c3aed&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=MOHD-OMER&style=flat-square&color=00C9A7&label=Profile+Views)
 
 <br/>
 
@@ -170,6 +170,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Portfolio-View%20Projects-%23000000?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC40,50:0074D9,100:001F3F&height=90&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
