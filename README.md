@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=1500&color=00C9A7&center=true&vCenter=true&width=750&height=26&lines=GenAI+%7C+RAG+Pipelines+%7C+LLM+Engineering+%7C+Agentic+AI+%7C+Computer+Vision+%7C+MLOps" alt="Specializations" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=1500&color=00C9A7&center=true&vCenter=true&width=750&height=26&lines=GenAI+%7C+RAG+%7C+LLM+Systems+%7C+Agentic+AI+%7C+Evaluation+%7C+MLOps" alt="Specializations" />
 
 <br/><br/>
 
