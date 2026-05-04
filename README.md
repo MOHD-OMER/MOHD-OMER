@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0074D9,100:2ECC40&height=230&section=header&fontColor=EAF6FF&fontSize=42&fontAlignY=40&text=MOHAMMED%20ABDUL%20OMER&desc=AI%20%7C%20ML%20ENGINEER&descSize=20&descAlignY=62&descColor=7FDBFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0074D9,100:2ECC40&height=230&section=header&animation=scaleIn&fontColor=EAF6FF&fontSize=42&fontAlignY=40&text=MOHAMMED%20ABDUL%20OMER&desc=AI%20%7C%20ML%20ENGINEER&descSize=20&descAlignY=62&descColor=7FDBFF" width="100%"/>
 
 <br/>
 
@@ -211,8 +211,8 @@ End-to-end MLOps pipeline integrating MLflow for experiment tracking and model r
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MOHD-OMER&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHD-OMER&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=MOHD-OMER&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHD-OMER&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8&hide=html,css,javascript" width="40%" />
 </p>
 
 ---
@@ -244,6 +244,6 @@ End-to-end MLOps pipeline integrating MLflow for experiment tracking and model r
   <img src="https://img.shields.io/badge/HuggingFace-Models-%23FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC40,50:0074D9,100:001F3F&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC40,50:0074D9,100:001F3F&height=90&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
