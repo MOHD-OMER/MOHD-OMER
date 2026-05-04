@@ -211,8 +211,8 @@ End-to-end MLOps pipeline integrating MLflow for experiment tracking and model r
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MOHD-OMER&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MOHD-OMER&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=MOHD-OMER&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000" width="55%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MOHD-OMER&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="40%" />
 </p>
 
 ---
