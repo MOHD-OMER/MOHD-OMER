@@ -56,7 +56,6 @@ class MohammedAbdulOmer:
         self.education  = "B.E. Computer Science (AI & ML) — Lords Institute of Engineering"
         self.focus      = ["LLM Engineering", "RAG Pipelines", "LLM Fine-tuning", "MLOps", "Computer Vision"]
         self.stack      = ["Python", "PyTorch", "LangChain", "LangGraph", "FastAPI", "HuggingFace"]
-        self.shipped    = ["Multi-Doc RAG Chatbot", "MLOps Pipeline", "QLoRA Fine-tuning (Mistral-7B)", "Multi-Agent System"]
         self.status     = "Open to AI / ML Engineer roles 🚀"
 
     def say_hi(self):
@@ -76,80 +75,6 @@ me.say_hi()
 | ⚙️ **MLOps** | MLflow experiment tracking, Evidently AI drift monitoring, W&B, reproducible pipelines |
 | 👁️ **Computer Vision** | Object detection (YOLOv8), medical imaging, Grad-CAM explainability |
 | ⚡ **API & Deployment** | FastAPI, Django, Docker, Railway, Render, HuggingFace Spaces |
-
----
-
-## 🚀 Portfolio Projects
-
-### 1 · Multi-Document RAG Chatbot
-> **Agentic retrieval system with hybrid search and streaming responses**
-
-Production-grade RAG chatbot using a LangGraph ReAct agent, hybrid retrieval (ChromaDB + BM25 + FlashRank re-ranking), and streaming SSE. Powered by Groq's `llama-3.1-8b-instant` with HuggingFace embeddings. Features dual frontends (Streamlit + Gradio) and a FastAPI async backend.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-🔗 [GitHub](https://github.com/MOHD-OMER/rag-agent)
-
----
-
-### 2 · MLOps Pipeline with Drift Monitoring
-> **End-to-end ML experiment tracking and data drift detection**
-
-A structured MLOps pipeline integrating MLflow for experiment tracking and model registry, Weights & Biases for training visualisation, and Evidently AI for data drift and model performance monitoring. Designed as a reproducible, production-mimicking workflow.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![W&B](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
-![Evidently AI](https://img.shields.io/badge/Evidently%20AI-6C5CE7?style=flat-square&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-🔗 [GitHub](https://github.com/MOHD-OMER/mlops-pipeline)
-
----
-
-### 3 · LLM Fine-tuning — Mistral-7B Medical QA
-> **QLoRA fine-tuning of Mistral-7B-Instruct for domain-specific medical Q&A**
-
-Fine-tuned `Mistral-7B-Instruct-v0.2` using QLoRA (PEFT) on a medical Q&A dataset, trained on Kaggle T4 GPU. Resolves real-world environment compatibility challenges (bitsandbytes, tokenizers, transformers versioning). Fully deployed to HuggingFace Hub with a live Gradio demo.
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![PEFT](https://img.shields.io/badge/PEFT%2FQLoRA-8B5CF6?style=flat-square&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logoColor=white)
-![W&B](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
-
-🔗 [GitHub](https://github.com/MOHD-OMER/llm-finetuning) &nbsp;|&nbsp; 🤗 [Model](https://huggingface.co/mohdomer/mistral-7b-medical-qa-qlora) &nbsp;|&nbsp; 🌐 [Live Demo](https://huggingface.co/spaces/mohdomer/mistral-medical-qa-demo)
-
----
-
-### 4 · Multi-Agent Research System
-> **Autonomous multi-agent pipeline for research and report generation**
-
-A collaborative multi-agent system built with CrewAI and Tavily for autonomous web research, synthesis, and structured report generation. Agents coordinate through defined roles (researcher, analyst, writer) with tool-use and planning loops.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat-square&logoColor=white)
-![Tavily](https://img.shields.io/badge/Tavily-0EA5E9?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
-
-🔗 [GitHub](https://github.com/MOHD-OMER/multi-agent-research)
-
----
-
-## 🏗️ Earlier Projects
-
-| Project | Description | Stack | Links |
-|---------|-------------|-------|-------|
-| 🫁 **PulmoScanAI** | TB detection from chest X-rays with Grad-CAM visual explainability | PyTorch · FastAPI · OpenCV | [GitHub](https://github.com/MOHD-OMER/PulmoScanAI) · [Demo](https://pulmoscanai-app.hf.space) |
-| 🔍 **TruthLens** | CNN-LSTM fake news detector (94.2% accuracy) + Gemini dual-layer verification | PyTorch · Flask · Gemini AI | [GitHub](https://github.com/MOHD-OMER/TruthLens) · [Demo](https://truthlens-uqo4.onrender.com) |
-| 🔥 **Building Safety Detection** | IoT + YOLOv8 smoke/fire detection system (AUC-ROC > 0.999) | TensorFlow · YOLOv8 · Django | [GitHub](https://github.com/MOHD-OMER/Building-Safety-Smoke-Detection) · [Demo](https://building-safety-smoke-detection-production.up.railway.app) |
-| 📚 **Doubt Tutor** | Local RAG-powered doubt-solving assistant with PDF/image upload | Ollama · Streamlit · LangChain | [GitHub](https://github.com/MOHD-OMER/doubt-tutor) |
 
 ---
 
@@ -204,18 +129,6 @@ A collaborative multi-agent system built with CrewAI and Tavily for autonomous w
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
-
----
-
-## 🧭 Currently Building
-
-> 4 of 5 portfolio projects shipped. Working on the final piece.
-
-- ✅ **Multi-Document RAG Chatbot** — LangGraph ReAct agent, hybrid retrieval, streaming SSE
-- ✅ **MLOps Pipeline** — MLflow + W&B + Evidently AI drift monitoring
-- ✅ **LLM Fine-tuning** — QLoRA on Mistral-7B for medical Q&A, deployed to HuggingFace
-- ✅ **Multi-Agent Research System** — CrewAI + Tavily + autonomous task planning
-- 🔧 **NLP Evaluation Dashboard** — benchmark comparisons, metrics visualisation, Gradio UI
 
 ---
 
