@@ -84,8 +84,8 @@ me.say_hi()
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Multi-Agent Research System
-Autonomous multi-agent pipeline built with CrewAI and Tavily for web research, synthesis, and structured report generation. Agents coordinate through defined roles — researcher, analyst, writer — with tool-use and planning loops for end-to-end autonomous execution.
+### 🤝 Multi-Agent Research System
+Autonomous multi-agent pipeline where specialised agents — researcher, analyst, writer — coordinate via CrewAI and Tavily to perform live web research, synthesise findings, and generate structured reports with zero human intervention.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat-square&logoColor=white)
@@ -141,62 +141,16 @@ End-to-end MLOps pipeline integrating MLflow for experiment tracking and model r
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🫁 PulmoScanAI
-AI-powered chest X-ray analysis system for tuberculosis detection using a fine-tuned CNN with Grad-CAM visual explainability. Features a production-ready FastAPI backend with live HuggingFace Spaces deployment.
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-🔗 [GitHub](https://github.com/MOHD-OMER/PulmoScanAI) &nbsp;·&nbsp; 🌐 [Demo](https://pulmoscanai-app.hf.space)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 TruthLens
-CNN-LSTM hybrid fake news detector trained on 40,000+ articles achieving 94.2% accuracy. Integrates Gemini AI for dual-layer verification, making it robust against sophisticated misinformation. Deployed live on Render.
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
-
-🔗 [GitHub](https://github.com/MOHD-OMER/TruthLens) &nbsp;·&nbsp; 🌐 [Demo](https://truthlens-uqo4.onrender.com)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔥 Building Safety Smoke Detection
-End-to-end safety system combining 7 ML classifiers on 62,630 IoT sensor readings (AUC-ROC > 0.999), MobileNetV2 image classifier (96.98% accuracy), and YOLOv8 real-time smoke detection — deployed as a full Django web application.
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-🔗 [GitHub](https://github.com/MOHD-OMER/Building-Safety-Smoke-Detection) &nbsp;·&nbsp; 🌐 [Demo](https://building-safety-smoke-detection-production.up.railway.app)
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Doubt Tutor
-Local RAG-powered doubt-solving assistant supporting PDF, image, and text uploads. Built with Ollama for fully offline LLM inference and a clean Streamlit UI with chat export — designed for students who need fast, context-aware answers.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-🔗 [GitHub](https://github.com/MOHD-OMER/doubt-tutor)
-
-</td>
-</tr>
 </table>
+
+<div align="center">
+
+*More projects on my → &nbsp;*
+<a href="https://mohdomer.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-View%20All-%23000000?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -257,9 +211,8 @@ Local RAG-powered doubt-solving assistant supporting PDF, image, and text upload
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHD-OMER&layout=compact&theme=transparent&hide_border=true&langs_count=8" width="38%" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=MOHD-OMER&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="55%" />
+  <img src="https://streak-stats.demolab.com?user=MOHD-OMER&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHD-OMER&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8&hide=html,css,javascript" width="40%" />
 </p>
 
 ---
