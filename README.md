@@ -93,7 +93,7 @@ Autonomous multi-agent pipeline built with CrewAI and Tavily for web research, s
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
 ![Tavily](https://img.shields.io/badge/Tavily-0EA5E9?style=flat-square&logoColor=white)
 
-🔗 [GitHub](https://github.com/MOHD-OMER/multi-agent-research)
+🔗 [GitHub](https://github.com/MOHD-OMER/multi-agent-researcher)
 
 </td>
 <td width="50%" valign="top">
