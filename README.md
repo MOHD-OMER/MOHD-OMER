@@ -55,7 +55,7 @@ class MohammedAbdulOmer:
         self.location   = "Hyderabad, India 🇮🇳"
         self.education  = "B.E. Computer Science (AI & ML) — Lords Institute of Engineering"
         self.focus      = ["LLM Engineering", "RAG Pipelines", "LLM Fine-tuning", "MLOps", "Computer Vision"]
-        self.stack      = ["Python", "PyTorch", "LangChain", "LangGraph", "FastAPI", "HuggingFace"]
+        self.stack      = ["Python", "PyTorch", "LangChain", "LangGraph", "CrewAI", "FastAPI", "HuggingFace"]
         self.status     = "Open to AI / ML Engineer roles 🚀"
 
     def say_hi(self):
@@ -69,8 +69,9 @@ me.say_hi()
 
 | Area | What I Build |
 |------|-------------|
+| 🎯 **AI Routing & Orchestration** | Multi-provider AI routers, task classification, benchmark pipelines |
 | 🔍 **Advanced RAG** | Hybrid retrieval (BM25 + vector + re-ranking), agentic pipelines, multi-document QA |
-| 🤖 **LLM Engineering** | Prompt orchestration, QLoRA/PEFT fine-tuning, Groq / Gemini APIs |
+| 🤖 **LLM Engineering** | QLoRA/PEFT fine-tuning, prompt orchestration, Groq / Gemini / OpenRouter APIs |
 | 🧠 **Agentic AI** | Multi-agent systems, CrewAI, LangGraph ReAct agents, autonomous task planning |
 | ⚙️ **MLOps** | MLflow experiment tracking, Evidently AI drift monitoring, W&B, reproducible pipelines |
 | 👁️ **Computer Vision** | Object detection (YOLOv8), medical imaging, Grad-CAM explainability |
@@ -78,10 +79,24 @@ me.say_hi()
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### 🎯 AI Orchestrator — Smart Multi-Provider Router
+Smart AI router that auto-selects the optimal model across Groq, Gemini, OpenRouter, and Ollama. Classifies tasks across 10 categories and routes to the best model based on speed, quality, cost, and privacy — with automatic fallback, benchmark mode, and a full CLI. 17+ models supported.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+
+🔗 [GitHub](https://github.com/MOHD-OMER/ai-orchestrator) &nbsp;·&nbsp; 🌐 [Live Demo](https://ai-orchestrator-nu86.onrender.com)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🤝 Multi-Agent Research System
@@ -93,9 +108,11 @@ Autonomous multi-agent pipeline where specialised agents — researcher, analyst
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
 ![Tavily](https://img.shields.io/badge/Tavily-0EA5E9?style=flat-square&logoColor=white)
 
-🔗 [GitHub](https://github.com/MOHD-OMER/multi-agent-researcher)
+🔗 [GitHub](https://github.com/MOHD-OMER/multi-agent-researcher) &nbsp;·&nbsp; 🌐 [Live Demo](https://huggingface.co/spaces/mohdomer/nexus-research)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🧬 LLM Fine-tuning — Mistral-7B Medical QA
@@ -110,8 +127,6 @@ QLoRA fine-tuning of Mistral-7B-Instruct-v0.2 on a medical Q&A dataset using PEF
 🔗 [GitHub](https://github.com/MOHD-OMER/llm-finetuning) &nbsp;·&nbsp; 🤗 [Model](https://huggingface.co/mohdomer/mistral-7b-medical-qa-qlora) &nbsp;·&nbsp; 🌐 [Demo](https://huggingface.co/spaces/mohdomer/mistral-medical-qa-demo)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🗂️ Multi-Document RAG Chatbot
@@ -126,26 +141,12 @@ Production-grade RAG chatbot using a LangGraph ReAct agent with hybrid retrieval
 🔗 [GitHub](https://github.com/MOHD-OMER/rag-agent)
 
 </td>
-<td width="50%" valign="top">
-
-### ⚙️ MLOps Pipeline with Drift Monitoring
-End-to-end MLOps pipeline integrating MLflow for experiment tracking and model registry, Weights & Biases for training visualisation, and Evidently AI for data drift and model performance monitoring — structured as a reproducible, production-mimicking workflow.
-
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![W&B](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
-![Evidently](https://img.shields.io/badge/Evidently%20AI-6C5CE7?style=flat-square&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-🔗 [GitHub](https://github.com/MOHD-OMER/mlops-pipeline)
-
-</td>
 </tr>
 </table>
 
 <div align="center">
 
-*More projects on my → &nbsp;*
+*More projects on my →*
 <a href="https://mohdomer.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-View%20All-%23000000?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
