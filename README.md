@@ -212,8 +212,8 @@ RAG chatbot built around a LangGraph ReAct agent with hybrid retrieval — Chrom
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MOHD-OMER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true&rank_icon=github" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHD-OMER&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" width="40%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MOHD-OMER&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="55%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MOHD-OMER&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="40%" />
 </p>
 
 ---
