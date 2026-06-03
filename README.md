@@ -34,7 +34,7 @@
 
 <br/>
 
-> *Building intelligent systems at the intersection of LLMs, RAG, fine-tuning, and real-world deployment.*
+> *I fine-tune models, wire up RAG pipelines, build multi-agent systems, and deploy them.*
 
 <br/>
 
@@ -44,7 +44,7 @@
 
 ## 👨‍💻 About Me
 
-AI & ML Engineer focused on building production-grade systems — from multi-agent LLM pipelines and QLoRA fine-tuning to computer vision and MLOps. I work across the full ML stack: data, modelling, APIs, experiment tracking, and cloud deployment. Currently completing my B.E. in CS (AI & ML) and actively seeking roles where I can ship intelligent systems that solve real problems.
+I build AI systems end-to-end — QLoRA fine-tuning, RAG pipelines, multi-agent workflows, computer vision, MLOps. I care about the whole picture: data, modeling, APIs, experiment tracking, cloud. Finishing my B.E. in CS (AI & ML) and looking for a role where I can keep building.
 
 ```python
 # mohammed_omer.py
@@ -72,7 +72,7 @@ me.say_hi()
 | 🎯 **AI Routing & Orchestration** | Multi-provider AI routers, task classification, benchmark pipelines |
 | 🔍 **Advanced RAG** | Hybrid retrieval (BM25 + vector + re-ranking), agentic pipelines, multi-document QA |
 | 🤖 **LLM Engineering** | QLoRA/PEFT fine-tuning, prompt orchestration, Groq / Gemini / OpenRouter APIs |
-| 🧠 **Agentic AI** | Multi-agent systems, CrewAI, LangGraph ReAct agents, autonomous task planning |
+| 🧠 **Agentic AI** | Multi-agent systems, CrewAI, LangGraph ReAct agents, task planning |
 | ⚙️ **MLOps** | MLflow experiment tracking, Evidently AI drift monitoring, W&B, reproducible pipelines |
 | 👁️ **Computer Vision** | Object detection (YOLOv8), medical imaging, Grad-CAM explainability |
 | ⚡ **API & Deployment** | FastAPI, Django, Docker, Railway, Render, HuggingFace Spaces |
@@ -86,7 +86,7 @@ me.say_hi()
 <td width="50%" valign="top">
 
 ### 🎯 AI Orchestrator — Smart Multi-Provider Router
-Smart AI router that auto-selects the optimal model across Groq, Gemini, OpenRouter, and Ollama. Classifies tasks across 10 categories and routes to the best model based on speed, quality, cost, and privacy — with automatic fallback, benchmark mode, and a full CLI. 17+ models supported.
+Routes tasks to the right model — Groq, Gemini, OpenRouter, or Ollama — based on whether you care more about speed, quality, cost, or keeping data local. Classifies across 10 task types, supports 17+ models, has a benchmark mode to verify routing decisions, and falls back automatically when a provider fails. Full CLI included.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -100,7 +100,7 @@ Smart AI router that auto-selects the optimal model across Groq, Gemini, OpenRou
 <td width="50%" valign="top">
 
 ### 🤝 Multi-Agent Research System
-Autonomous multi-agent pipeline where specialised agents — researcher, analyst, writer — coordinate via CrewAI and Tavily to perform live web research, synthesise findings, and generate structured reports with zero human intervention.
+Three agents — researcher, analyst, writer — split up a research task, pull live web data via Tavily, and hand off work through CrewAI until a structured report comes out. You give it a topic; you get a report.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat-square&logoColor=white)
@@ -116,7 +116,7 @@ Autonomous multi-agent pipeline where specialised agents — researcher, analyst
 <td width="50%" valign="top">
 
 ### 🧬 LLM Fine-tuning — Mistral-7B Medical QA
-QLoRA fine-tuning of Mistral-7B-Instruct-v0.2 on a medical Q&A dataset using PEFT. Trained on Kaggle T4 GPU with full environment compatibility handling. Model and Gradio demo fully deployed to HuggingFace Hub.
+Fine-tuned Mistral-7B-Instruct-v0.2 on a medical Q&A dataset using QLoRA/PEFT on a Kaggle T4 GPU. Most of the actual work was sorting out quantization compatibility across library versions. Model and Gradio demo are live on HuggingFace.
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
@@ -130,7 +130,7 @@ QLoRA fine-tuning of Mistral-7B-Instruct-v0.2 on a medical Q&A dataset using PEF
 <td width="50%" valign="top">
 
 ### 🗂️ Multi-Document RAG Chatbot
-Production-grade RAG chatbot using a LangGraph ReAct agent with hybrid retrieval — ChromaDB vector search, BM25, and FlashRank re-ranking. Streaming SSE responses via FastAPI async backend, powered by Groq's llama-3.1-8b-instant with dual Streamlit and Gradio frontends.
+RAG chatbot built around a LangGraph ReAct agent with hybrid retrieval — ChromaDB for vector search, BM25 for keyword matching, FlashRank for re-ranking. FastAPI handles streaming over SSE; Groq's llama-3.1-8b-instant does the generation. Streamlit and Gradio frontends included.
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -232,7 +232,7 @@ Production-grade RAG chatbot using a LangGraph ReAct agent with hybrid retrieval
 
 <br/><br/>
 
-*If you find my work interesting, let's connect →* &nbsp;
+*Want to talk AI systems or discuss roles? →* &nbsp;
 <a href="https://www.linkedin.com/in/mohammad-abdul-omer/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
