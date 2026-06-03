@@ -226,10 +226,8 @@ RAG chatbot built around a LangGraph ReAct agent with hybrid retrieval — Chrom
 
 ---
 
-## 🧪 Field Notes
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=2000&color=00C9A7&center=true&vCenter=true&multiline=false&width=720&height=28&lines=Ship+it.+Learn.+Fix+it.+Repeat.;Most+ML+bugs+are+data+bugs+in+disguise.;You+don%27t+understand+a+model+until+you%27ve+watched+it+fail.;Read+the+paper.+Then+read+the+code.+They%27re+rarely+the+same.;Good+enough+and+deployed+beats+perfect+and+local.;Every+abstraction+leaks.+Know+what%27s+under+it.;Fine-tuning+teaches+you+more+about+your+data+than+your+model.;The+latency+you+ignore+in+dev+is+the+bug+you+debug+in+prod." alt="Field Notes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=2000&color=00C9A7&center=true&vCenter=true&multiline=false&width=720&height=28&lines=Ship+it.+Learn.+Fix+it.+Repeat.;Most+ML+bugs+are+data+bugs+in+disguise.;You+don%27t+understand+a+model+until+you%27ve+watched+it+fail.;Read+the+paper.+Then+read+the+code.+They%27re+rarely+the+same.;Good+enough+and+deployed+beats+perfect+and+local.;Every+abstraction+leaks.+Know+what%27s+under+it.;Fine-tuning+teaches+you+more+about+your+data+than+your+model.;The+latency+you+ignore+in+dev+is+the+bug+you+debug+in+prod." alt="" />
 </p>
 
 ---
