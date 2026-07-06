@@ -25,11 +25,19 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=MOHD-OMER&style=flat-square&color=00C9A7&label=Profile+Views" />
+
 </div>
 
 ---
 
 ## About
+
+<table>
+<tr>
+<td valign="top" width="60%">
 
 AI/ML Engineer focused on building and deploying LLM-based systems end to end — from data and fine-tuning through retrieval pipelines, multi-agent orchestration, and production APIs. I work across the full stack of a modern AI product: modeling, evaluation, experiment tracking, and cloud deployment.
 
@@ -37,6 +45,15 @@ Currently completing a B.E. in Computer Science (AI & ML) at Lords Institute of 
 
 - **Core focus:** LLM engineering, RAG pipelines, fine-tuning (QLoRA/PEFT), agentic systems, MLOps, computer vision
 - **Primary stack:** Python, PyTorch, LangChain, LangGraph, CrewAI, FastAPI, Hugging Face
+
+</td>
+<td valign="top" width="40%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding animation" />
+
+</td>
+</tr>
+</table>
 
 | Area | Focus |
 |------|-------|
@@ -129,16 +146,13 @@ RAG chatbot built on a LangGraph ReAct agent with hybrid retrieval — ChromaDB 
 
 ## Tech Stack
 
-**AI / ML & Deep Learning**
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
+**Languages · ML/DL · Frameworks · Tools**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,flask,django,docker,aws,git,github,linux,vscode,postman&theme=dark&perline=8" />
+
+</div>
 
 **LLM Engineering & Agentic AI**
 
@@ -146,42 +160,24 @@ RAG chatbot built on a LangGraph ReAct agent with hybrid retrieval — ChromaDB 
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/PEFT%2FQLoRA-8B5CF6?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/>
 </p>
 
-**MLOps & Experiment Tracking**
+**MLOps, UI & Deployment**
 
 <p>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
   <img src="https://img.shields.io/badge/Evidently%20AI-6C5CE7?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
-**APIs, UI & Deployment**
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace%20Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HF%20Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-</p>
-
-**Developer Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
