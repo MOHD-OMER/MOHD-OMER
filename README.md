@@ -193,6 +193,10 @@ RAG chatbot built on a LangGraph ReAct agent with hybrid retrieval — ChromaDB 
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MOHD-OMER&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="40%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHD-OMER&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
 ---
 
 <div align="center">
