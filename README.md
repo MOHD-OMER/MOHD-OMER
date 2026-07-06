@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0074D9,100:2ECC40&height=200&section=header&fontColor=EAF6FF&fontSize=40&fontAlignY=38&text=Mohammed%20Abdul%20Omer&desc=AI%20%2F%20Machine%20Learning%20Engineer&descSize=18&descAlignY=60&descColor=7FDBFF" width="100%"/>
 
 <p>
@@ -216,3 +216,4 @@ RAG chatbot built on a LangGraph ReAct agent with hybrid retrieval — ChromaDB 
 </a>
 
 </div>
+**
